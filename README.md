@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm [Your Name]! 
+# 👋 Hi, I'm Natnael Eyuel! 
 
 **🚀 Full-Stack Developer | Open-Source Enthusiast | Debugger of Midnight Bugs**  
 
