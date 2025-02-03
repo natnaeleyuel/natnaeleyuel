@@ -44,13 +44,6 @@
 
 ---
 
-**📫 Let’s Connect:**  
-- **Collaborate:** If you want to build something wild (or just rant about npm errors).  
-- **Help:** Got system design/AI wisdom? *I’ll bring the coffee*.  
-- **Chat:** [Email](mailto:your@email.com) | [Twitter DMs](https://twitter.com/your-handle)  
-
-⭐ **Pro tip:** My GitHub is a mix of *"This is genius"* and *"Why did I think this would work?"* — enjoy the chaos!
-
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/natnael_eyuel/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/28114866/natnael-eyuel) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/nati_neil) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/natnaeleyuel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:natnaeleyuel77@gmail.com) 
