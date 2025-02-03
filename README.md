@@ -16,21 +16,6 @@
 
 ---
 
-## **🛠️ Tech Toolbox**  
-**Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css)
-
-**Backend**  
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-
-**Other**  
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF6B6B?logo=lock&logoColor=white)
-![AI/ML](https://img.shields.io/badge/-AI/ML-FFD93D?logo=tensorflow)
-
----
 
 ## **💡 Ask Me About**  
 - How to style that `<div>` that just *won’t center* (we’ve all been there).  
