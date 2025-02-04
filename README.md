@@ -45,7 +45,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=natnaeleyuel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20more%20than%20logic%E2%80%94it%27s%20the%20art%20of%20turning%20curiosity%20into%20solutions%2C%20the%20patience%20to%20embrace%20the%20grind%20of%20iteration%2C%20and%20the%20humility%20to%20learn%20from%20every%20bug.%20I%20build%20not%20just%20for%20machines%2C%20but%20for%20the%20humans%20behind%20them.)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=natnaeleyuel&limit=5&theme=dark&combine_all_yearly_contributions=true)
