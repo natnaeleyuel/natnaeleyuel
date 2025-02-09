@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Natnael Eyuel! 
 
-** 🚀 Full-Stack Developer | Open-Source Enthusiast 
+Full-Stack Developer | Open-Source Enthusiast 
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/natnael_eyuel/) 
