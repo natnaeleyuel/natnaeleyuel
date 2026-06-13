@@ -1,12 +1,84 @@
-# 👋 Hi, I'm Natnael Eyuel!  
+# Natnael Eyuel
 
-**Full-Stack Developer | AI/ML Practitioner | Open-Source Contributor**  
+**Systems & AI infrastructure engineer building distributed runtime systems, agent safety layers, and backend infrastructure.**
 
-Software Engineer building scalable, production-ready web and AI-integrated systems, with experience delivering end-to-end features from design to deployment. Worked on real-world applications involving payments, analytics, and intelligent workflows, with a strong focus on system reliability and performance. Known for taking ownership, adapting quickly, and delivering clean, maintainable solutions in fast-paced environments.
+---
 
+## Selected systems
 
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+### [UndoLog](https://github.com/UndoBase/UndoLog)
+Distributed safety runtime for AI agents.
 
+- Journals tool calls with deterministic rollback (saga-based execution)
+- Exactly-once semantics via cryptographic call signatures (BLAKE3-256)
+- Rust engine + Go proxy + Python SDK
+- Designed for failure-safe AI agent tool execution
 
-💡 Always excited to **collaborate on impactful projects**, explore **new technologies**, and share knowledge with the developer community.
+---
+
+### [MeTTa-KG](https://github.com/Qoba-ai/MeTTa-KG)
+Knowledge graph infrastructure for neurosymbolic AI.
+
+- Custom graph storage + bytecode-based pattern execution VM
+- High-performance Rust backend with structured query layer
+- Built for symbolic + neural hybrid workloads
+
+---
+
+### [NL2Cypher](https://natural-language-to-neo4j.vercel.app/)
+Natural language → graph query system.
+
+- Multi-LLM 5-stage reasoning pipeline (LangGraph)
+- Safety-validated Cypher generation layer
+- Production-ready Neo4j query synthesis system
+
+---
+
+### [JobMate](https://github.com/A2SV/g6-jobmate)
+AI career platform for job seekers.
+
+- Bilingual CV + interview intelligence system (Amharic/English)
+- Structured evaluation + recommendation pipeline
+- Full-stack deployment (Go + Next.js + Flutter)
+
+---
+
+## Engineering principles
+
+- Design for failure before functionality
+- Prefer explicit state transitions over hidden control flow
+- Treat distributed systems as adversarial environments
+- Tests define architecture boundaries
+
+---
+
+## Stack
+
+**Systems:** Rust · Go · Python · Typescript  
+**Backend:** gRPC · REST · Node.js · FastAPI · Gin  
+**Frontend:** Next.js · React · Flutter  
+**Data:** PostgreSQL · MongoDB · Neo4j · Redis  
+**Infra:** Docker · AWS · Linux · GitHub Actions  
+**AI:** LLM orchestration · RAG · LangGraph · PyTorch
+
+---
+
+## Development Analytics
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-stats.vercel.app/api?username=natnaeleyuel&show_icons=true&hide_border=true&rank_icon=github&bg_color=ffffff&title_color=111827&text_color=4b5563&icon_color=2563eb"
+  />
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=natnaeleyuel&bg_color=ffffff&color=4b5563&line=2563eb&point=2563eb&area=true&hide_border=true&radius=12"
+  />
+</p>
+
+---
+
+## Elsewhere
+
+LinkedIn: [linkedin.com/in/natnaeleyuel](https://linkedin.com/in/natnaeleyuel) \
+Email: natnael.eyuel.ai@gmail.com
